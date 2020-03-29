@@ -21,9 +21,9 @@ publish {
     userOrg = 'quoctrung66'
     repoName = 'glux'
     groupId = 'dv.trung.glux'
-    artifactId = 'glux-compiler'
+    artifactId = 'glux-font'
     publishVersion = '0.0.1'
-    desc = 'The first publish'
+    desc = 'Initial glux font'
     licences = ['Apache-2.0']
 }
 
