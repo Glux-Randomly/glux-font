@@ -22,7 +22,7 @@ publish {
     repoName = 'glux'
     groupId = 'dv.trung.glux'
     artifactId = 'glux-font'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.2'
     desc = 'Initial glux font'
     licences = ['Apache-2.0']
 }
